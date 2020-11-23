@@ -97,6 +97,13 @@
 ## Interest Rates - Positive Correlation with Inflation
 ## Gvt Spending goes up - Fiscal Deficit Rises
 	- Gvt prints more money
-	- M3 goes up if the country's notes are printed by Foreigners 
+	- M3 goes up if the country's notes are printed by Foreigners
 	- Pakistan printed fake Indian Notes to increase fiscal deficit
 	- Lack of Sovereign Right: Right to control country's own currency
+	- UK, US, Germany: Sovereign States - Control on Interest Rates
+
+## Indian Lack of Control on Sovereignity
+- Supply Shock(Onion Prices go up)
+	- Raided Godowns
+- 2017: Price of Pulses went up significantly
+	- Imported Pulses in Large Qty
