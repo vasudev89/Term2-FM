@@ -50,7 +50,7 @@
 - Suppose Tax Rate = 35%
 - Cost of Debt(kd) = 0.15\*(1-0.35) = 0.0975
 
-- YTM = Cost of Debt
+- YTM = Cost of Debt = Return/Interest to the Investor
 
 - Discount Bond
 	- 2% Discount on Face Value
