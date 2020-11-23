@@ -36,21 +36,15 @@
 ## Example of Debt Mkt
 - Comp decides to sell a new issue of 7 year 15 % bonds of Rs 100 each at par. If the bonds are redeemed at the cost of capital will be?
 
-0 100
-1 -15
-2 -15
-3 -15
-4 -15
-5 -15
-6 -15
-7 -115
+0	1	2	3	4	5	6	7
+100	-15	-15	-15	-15	-15	-15	-115
 
 Face Value = 100
 Coupon Rate = 15%(Not Interest Rate)
 Tenure = 7 Years
 
-Calculate Expected Rate of Return or IRR(Excel)
-Yield to Maturity(YTM) = 15%
+**Calculate Expected Rate of Return or IRR(Excel)**
+**Yield to Maturity(YTM) = 15%**
 
 Suppose Tax Rate = 35%
 Cost of Debt(kd) = 0.15\*(1-0.35) = 0.0975
@@ -59,15 +53,14 @@ YTM = Cost of Debt
 
 - Discount Bond
 	2% Discount on Face Value
-	0 98
-	1 -15
-	2 -15
-	3 -15
-	4 -15
-	5 -15
-	6 -15
-	7 -115
-	
-	YTM = 15.49%
+	0	1	2	3	4	5	6	7
+	98	-15	-15	-15	-15	-15	-15	-115
+
+	**YTM = 15.49%**
 
 - Premium Bond
+	5% Premium on Redemption
+	0	1	2	3	4	5	6	7
+	100	-15	-15	-15	-15	-15	-15	-120
+
+	**YTM = 15.45%**
