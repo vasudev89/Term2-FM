@@ -37,6 +37,7 @@
 - Comp decides to sell a new issue of 7 year 15 % bonds of Rs 100 each at par. If the bonds are redeemed at the cost of capital will be?
 
 0	1	2	3	4	5	6	7
+<br>
 100	-15	-15	-15	-15	-15	-15	-115
 
 Face Value = 100
@@ -52,15 +53,22 @@ Cost of Debt(kd) = 0.15\*(1-0.35) = 0.0975
 YTM = Cost of Debt
 
 - Discount Bond
-	2% Discount on Face Value
+	- 2% Discount on Face Value
+	<br>
 	0	1	2	3	4	5	6	7
+	<br>
 	98	-15	-15	-15	-15	-15	-15	-115
-
+	<br>
 	**YTM = 15.49%**
 
 - Premium Bond
-	5% Premium on Redemption
+	- 5% Premium on Redemption
+	<br>
 	0	1	2	3	4	5	6	7
+	<br>
 	100	-15	-15	-15	-15	-15	-15	-120
-
+	<br>
 	**YTM = 15.45%**
+
+- Par Bond
+	- No Discount, No Premium
