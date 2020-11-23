@@ -40,35 +40,35 @@
 <br>
 100	-15	-15	-15	-15	-15	-15	-115
 
-Face Value = 100
-Coupon Rate = 15%(Not Interest Rate)
-Tenure = 7 Years
+- Face Value = 100
+- Coupon Rate = 15%(Not Interest Rate)
+- Tenure = 7 Years
 
-**Calculate Expected Rate of Return or IRR(Excel)**
-**Yield to Maturity(YTM) = 15%**
+- **Calculate Expected Rate of Return or IRR(Excel)**
+- **Yield to Maturity(YTM) = 15%**
 
-Suppose Tax Rate = 35%
-Cost of Debt(kd) = 0.15\*(1-0.35) = 0.0975
+- Suppose Tax Rate = 35%
+- Cost of Debt(kd) = 0.15\*(1-0.35) = 0.0975
 
-YTM = Cost of Debt
+- YTM = Cost of Debt
 
 - Discount Bond
 	- 2% Discount on Face Value
 	<br>
 	0	1	2	3	4	5	6	7
 	<br>
-	98	-15	-15	-15	-15	-15	-15	-115
+	98(2% Discount on 100)	-15	-15	-15	-15	-15	-15	-115
 	<br>
-	**YTM = 15.49%**
+	__YTM = 15.49%__
 
 - Premium Bond
 	- 5% Premium on Redemption
 	<br>
 	0	1	2	3	4	5	6	7
 	<br>
-	100	-15	-15	-15	-15	-15	-15	-120
+	100	-15	-15	-15	-15	-15	-15	-120(-5 More than -115)
 	<br>
-	**YTM = 15.45%**
+	__YTM = 15.45%__
 
 - Par Bond
 	- No Discount, No Premium
