@@ -36,9 +36,10 @@
 ## Example of Debt Mkt
 - Comp decides to sell a new issue of 7 year 15 % bonds of Rs 100 each at par. If the bonds are redeemed at the cost of capital will be?
 
-0	1	2	3	4	5	6	7
-<br>
-100	-15	-15	-15	-15	-15	-15	-115
+- Without Tax: 100	-15	-15	-15	-15	-15	-15	-115
+	- YTM = 15%
+- After Tax:   100	-9.75 -9.75 -9.75 -9.75 -9.75 -9.75 -109.75
+	- YTM = 9.75%
 
 - Face Value = 100
 - Coupon Rate = 15%(Not Interest Rate)
@@ -72,3 +73,5 @@
 
 - Par Bond
 	- No Discount, No Premium
+
+- Interest Always shields tax
