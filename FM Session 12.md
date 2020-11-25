@@ -25,7 +25,24 @@
 						- Debt/Capital
 							- Should be less than 1: Capital can be used to pay debt
 	- Bank Loan
-		- 
-
+		- Internal Credit Rating
+			- CIBIL
+				- Internal Credit Rating Methods for Individuals
+				- Credit Card usage history
+				- Payment History(Key)
+		- Ke = Expected value of return from Equity Investors = Rf + Equity Mkt Premium
+			- Dividend Discount Model
+			- Ke = Rf + Beta * (Rm-Rf) => CAPM
+			- Beta = 
+			- Rm = Equity Mkt Return
+			- Efficient Mkt Portfolio
 - Recovery = Principal Recovery
 - Return = Interest Recovery
+- In either NCB/D and Bank Loan: Int Coverage and Debt Ratio are analyzed
+
+## Stock Comparison
+- X => Avg = 13%, Std Dev = 53%
+- Y => Avg = 18%, Std Dev = 68%
+
+## Please read chp 8, 9 of book
+- Pg 203: Variance Formula for 2 stocks
